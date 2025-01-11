@@ -1,6 +1,7 @@
 # Ucharan-ai
 
-**Ucharan-ai** is an open-source project focused on building a **Text-to-Speech (TTS) system for the Nepali language**. By converting written Nepali text into natural and intelligible speech, Ucharan-ai aims to make the Nepali language more accessible and interactive in the digital world. 
+Ucharan-ai is an open-source project focused on building a **Text-to-Speech (TTS) system for the Nepali language**. By converting written Nepali text into natural and intelligible speech, Ucharan-ai aims to make the Nepali language more accessible and interactive in the digital world.
+
 ---
 
 ## **Features**
