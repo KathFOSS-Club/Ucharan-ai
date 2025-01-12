@@ -25,6 +25,22 @@ Languages like Nepali are often underrepresented in modern AI systems. Ucharan-a
 
 ---
 
+## **Dataset and Reference**
+
+We use the [OpenSLR dataset](https://openslr.org/54) as the foundation for building our TTS system. Our work is inspired by the following research:
+
+> ```bibtex
+> @inproceedings{dhakal2022automatic,
+>   title={Automatic speech recognition for the Nepali language using CNN, bidirectional LSTM and ResNet},
+>   author={Dhakal, Manish and Chhetri, Arman and Gupta, Aman Kumar and Lamichhane, Prabin and Pandey, Suraj and Shakya, Subarna},
+>   booktitle={2022 International Conference on Inventive Computation Technologies (ICICT)},
+>   pages={515--521},
+>   year={2022},
+>   organization={IEEE}
+> }
+> ```
+---
+
 ## **Contributing**
 We welcome contributions from the community! Follow these steps to get started:
 
@@ -35,11 +51,6 @@ We welcome contributions from the community! Follow these steps to get started:
 5. **Open a pull request**
 
 Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
----
-
-## **License**
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software.
 
 ---
 
@@ -58,3 +69,9 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 If you have any questions or suggestions, feel free to reach out:
 
 - **Email**: prabhashj07@gmail.com
+
+----
+## **License**
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software.
+
+---
